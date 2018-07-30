@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ng6 Demos</title>
+</head>
+
+<body class="container">
+    <root>Root Comp Loading....</root>
+    <!-- <input id="t1" type="text" value="Manish" /> -->
+    <!-- <span id="s1">Change</span> -->
+    <!-- <button class="btn btn-success" id="b1">Click</button>
+    <button class="btn btn-success" onclick="HandleClick(event)">Click</button>
+
+    <script>
+        function HandleClick(e){
+            console.log(e);
+        }
+
+        document.getElementById("b1").addEventListener("click", HandleClick);
+    </script> -->
+</body>
+
+</html>
